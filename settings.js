@@ -43,24 +43,47 @@ global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
+global.owner = ['94740768693']
+global.ownertag = '94740768693' //ur tag number
+global.botnumber = '94740768693' //Add your Bot Number For Log
+global.botname = 'DILNETHU MD V1' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
+global.packname = "DILNETHU MD" //ur sticker watermark packname
+global.author = "DILNETHU" //ur sticker watermark author
+global.footer = "® DILNETHU MD"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.alivemsg = "꧁🇱🇰ⒷⓄⓉ🇱🇰࿐꧂
+
+සාදරයෙන් පිලිගන්නවා අපගේ group එකට
+
+නීති👇
+*⭕ spam බෑ...*
+*⭕ නරක වචන බෑ...*
+*⭕ admin හා bot ලගෙ inbox ගිහින් කරදර කරන්න බෑ...*
+
+මේකෙන් ගන්න පුලුවන් දේවල් 👇
+
+*📎සින්දු ඉල්ලන්න පුලුවන්..*
+*📎youtube විඩියෝ download කරන්න පුලුවන්..*
+*📎ඔයාට ඕන apk download කරන්න පුලුවන්..*
+*📎mediafire links download කරන්න පුලුවන්..*
+
+මේ වගේ තව ගොඩක් ඒව මේකෙන් කරගන්න පුලුවන්..🥲
+
+command list එක ලබා ගැනීමට *.menu* කියලා type කරන්න...🪀
+
+මෙන්න group link එක
+https://chat.whatsapp.com/CQv3zLqKYQl3k1IIfoZnmn
+
+```BY DILNETHU```  \n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
@@ -96,15 +119,15 @@ global.antitags = true
 global.prefa = ['','!','.']
 global.sp = '⭔'
 global.mess = {
-    success: '✉️✏️ _Done_',
-    admin: '✉️✏️ _This Feature Is Only For Admin!_',
+    success: '✉️✏️ _හරි_',
+    admin: '✉️✏️ _මේක ඇඩ්මින්ලගේ COMMAND එකකි!_',
     botAdmin: '✉️✏️ _Bot Must Be Admin First!_',
     owner: '✉️✏️ _This Feature Is Only For Owner!_',
     group: '✉️✏️ _Feature Used Only For Groups!_',
     private: '✉️✏️ _Features Used Only For Private Chat!_',
     bot: '✉️✏️ _This Feature Is Only For Bot_',
-    wait: '✉️✏️ _Processing Please Wait..._',
-    linkm: '📧✏️ _Where is the link?_',
+    wait: '✉️✏️ _මදක් රැදී සිටින්න..._',
+    linkm: '📧✏️ _කෝ ලින්ක් එක?_',
     error: '✉️🤕 ```Error!!```',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
